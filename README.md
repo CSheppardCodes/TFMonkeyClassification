@@ -1,1 +1,1 @@
-Host large nested folder monkey dataset here, cloned in code
+Hosted monkey dataset here, cloned in code
